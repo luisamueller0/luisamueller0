@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Luisa!
 
-🎓 B.Sc. in Computer Science – University of Konstanz (April 2025)  
+🎓 B.Sc. in Computer Science – University of Konstanz
 🌍 Currently looking for **remote opportunities** (planning to move to Italy 🇮🇹)  
 🗣️ Native German speaker | Fluent in English | Understand Spanish & French  
-💻 I love exploring data, making it visual, and building tools to understand complex systems
+💻 I'm driven by the challenge of making complex systems accessible — through data visualization, structured development, and thoughtful design
 
 ---
 
