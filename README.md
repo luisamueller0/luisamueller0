@@ -2,7 +2,7 @@
 
 🎓 B.Sc. in Computer Science – University of Konstanz
 🌍 Currently looking for **remote opportunities** (planning to move to Italy 🇮🇹)  
-🗣️ Native German speaker | Fluent in English | Understand Spanish & French  
+🗣️ Languages: 🇩🇪 (native), 🇬🇧 (fluent), 🇪🇸 🇫🇷 (understand), 🇮🇹 (learning)
 💻 I'm driven by the challenge of making complex systems accessible — through data visualization, structured development, and thoughtful design
 
 ---
