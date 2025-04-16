@@ -7,22 +7,22 @@
 
 ---
 
-## 🔎 What I’m into
-- 📊 **Data analysis & visualization** – finding patterns, telling stories with data, and making information accessible  
-- 🎨 **Web development with clean UI/UX** – I enjoy building well-structured, visually clear interfaces that are intuitive for users  
-- 🗃️ **Structured backend & database work** – using SQL, Cypher & Neo4j to access, analyze, and organize data efficiently  
-- 🔁 **Fullstack thinking** – combining Angular, TypeScript, and Java to build cohesive systems from frontend to backend  
-- 🌱 **Learning & growing** – currently diving deeper into Python and refreshing my SQL skills
+## 📊 What I’m into
+- **Data analysis & visualization** – finding patterns, telling stories with data, and making information accessible  
+- **Web development with clean UI/UX** – I enjoy building well-structured, visually clear interfaces that are intuitive for users  
+- **Structured backend & database work** – using SQL, Cypher & Neo4j to access, analyze, and organize data efficiently  
+- **Fullstack thinking** – combining Angular, TypeScript, and Java to build cohesive systems from frontend to backend  
+- **Learning & growing** – currently diving deeper into Python and refreshing my SQL skills
 
 ---
 
 ## 🎓 Bachelor Thesis Highlights
 🔗 Repo: [BachelorProject](https://github.com/luisamueller0/BachelorProject)
 
-- 🧠 **Topic:** Visualization of Social Networks in Art History through Clustering and a Custom Radial Layout  
-- 🔧 **Tech Stack:** Angular • Java • D3 • TypeScript • Neo4j • Cypher  
-- 💡 **Goal:** Making connections within social networks visible and analyzable through interactive visualizations
-- 📚 The PhD student who supervised my work is currently preparing a **publication** based on the tool I developed
+- **Topic:** Visualization of Social Networks in Art History through Clustering and a Custom Radial Layout  
+- **Tech Stack:** Angular • Java • D3 • TypeScript • Neo4j • Cypher  
+- **Goal:** Making connections within social networks visible and analyzable through interactive visualizations
+- The PhD student who supervised my work is currently preparing a **publication** based on the tool I developed
 ---
 
 ## 🧠 How I like to work
