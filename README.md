@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tech stack
-Some are visible in my repositories: [BachelorProject](https://github.com/luisamueller0/BachelorProject)  |  [SoftwareProject](https://github.com/luisamueller0/GroupSoftwareProject)
+Some are applied in these repositories: [BachelorProject](https://github.com/luisamueller0/BachelorProject)  |  [SoftwareProject](https://github.com/luisamueller0/GroupSoftwareProject)
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JSON](https://img.shields.io/badge/JSON-%23FFFFFF.svg?style=for-the-badge&logo=json&logoColor=black) ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
