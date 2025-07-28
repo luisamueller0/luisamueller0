@@ -1,78 +1,39 @@
-# 👋 Hi, I'm Luisa!
+# 👋 Hi, I'm Luisa! 
+> Passionate frontend developer focusing on clean, maintainable code and thoughtful UI/UX
 
-🎓 B.Sc. in Computer Science – University of Konstanz  
-🌍 Currently looking for **remote opportunities** (planning to move to Italy 🇮🇹)  
-🗣️ Languages: 🇩🇪 Native | 🇬🇧 Fluent | 🇪🇸 🇫🇷 B1 (rusty) | 🇮🇹 Beginner  
-💻 I'm driven by the challenge of making complex systems accessible — through data visualization, structured development, and thoughtful design  
+🎓 B.Sc. in Computer Science (University of Konstanz)  
+🌍 Currently living in Germany, planning to relocate to Trento, Italy  
+💼 Actively seeking frontend developer job opportunities in **Trento** or **remote** roles based in Italy  
+🗣️ Languages: 🇩🇪 Native | 🇬🇧 Fluent | 🇪🇸 🇫🇷 B1 (rusty) | 🇮🇹 Beginner (currently learning)  
+💻 Passionate about building clean, user-friendly web applications with efficient, maintainable code  
+🎮 Hobbies: gaming, photography, cooking, and gym training  
+⚡ Fun fact: I don’t like coffee and am only fueled by Red Bull  
 
----
-
-## 📊 What I’m into
-- **Data analysis & visualization** – finding patterns, telling stories with data, and making information accessible  
-- **Web development with clean UI/UX** – I enjoy building well-structured, visually clear interfaces that are intuitive for users  
-- **Structured backend & database work** – using SQL, Cypher & Neo4j to access, analyze, and organize data efficiently  
-- **Fullstack thinking** – combining Angular, TypeScript, and Java to build cohesive systems from frontend to backend  
-- **Learning & growing** – currently diving deeper into Python and refreshing my SQL skills
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/luisa-mueller-dev/)
 
 ---
 
-## 🎓 Bachelor Thesis Highlights
-🔗 Repo: [BachelorProject](https://github.com/luisamueller0/BachelorProject)
+## 🛠 Tech stack
+Some are visible in my repositories: [BachelorProject](https://github.com/luisamueller0/BachelorProject)  |  [SoftwareProject](https://github.com/luisamueller0/GroupSoftwareProject)
 
-- **Topic:** Visualization of Social Networks in Art History through Clustering and a Custom Radial Layout  
-- **Tech Stack:** Angular • Java • D3 • TypeScript • Neo4j • Cypher  
-- **Goal:** Making connections within social networks visible and analyzable through interactive visualizations
-- The PhD student who supervised my work is currently preparing a **publication** based on the tool I developed
----
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JSON](https://img.shields.io/badge/JSON-%23FFFFFF.svg?style=for-the-badge&logo=json&logoColor=black) ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-## 🧠 How I like to work
-- I'm **ambitious and a perfectionist** – I enjoy working efficiently and with attention to detail  
-- I **stay motivated** on long-term projects and love seeing ideas grow into polished results  
-- I thrive in **collaborative environments** – focused solo work paired with group strategy  
-- Really enjoyed applying **SCRUM planning** in a university team project with 5 others  
-  🔗 Repo: [SoftwareProject](https://github.com/luisamueller0/GroupSoftwareProject)
 
----
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![Neo4j](https://img.shields.io/badge/neo4j-%2300B5AD.svg?style=for-the-badge&logo=neo4j&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🖥️ Outside of code
-- 🎮 Gaming with friends  
-- 📸 Capturing moments through photography  
-- ☕ Fueled by Red Bull and ambition  
-- 🇮🇹 Currently learning Italian – preparing for a move to Italy  
-- 🎥 Enjoy watching tv series and anime in my downtime
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
----
 
-## 📫 Let’s connect!
-- 📍 Open to **remote roles** in data analysis, frontend, backend or fullstack
-- ✉️ Email me: luisamueller02@web.de
-
-## 🛠 Things I work with
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Cypher](https://img.shields.io/badge/cypher-%2300B5AD.svg?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 
 
-<!--
 
-- 🌐 [LinkedIn](https://www.linkedin.com/) (add your link here)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 How I like to work
+- I'm **ambitious and a perfectionist**  
+- I enjoy working efficiently and with attention to detail  
+- I stay motivated on long-term projects and love seeing ideas grow into polished results  
+- I thrive in **collaborative environments**, balancing focused solo work with group strategy  
+- I really enjoyed applying **SCRUM planning** in a university team project with 5 others  
+🔗 Repo: [SoftwareProject](https://github.com/luisamueller0/GroupSoftwareProject)
