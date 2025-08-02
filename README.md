@@ -5,7 +5,7 @@
 🌍 Currently living in Germany, planning to relocate to Trento, Italy  
 💼 Actively seeking frontend developer job opportunities in **Trento** or **remote** roles based in Italy  
 🗣️ Languages: 🇩🇪 Native | 🇬🇧 Fluent (business level) | 🇪🇸 🇫🇷 Elementary proficiency (rusty) | 🇮🇹 Beginner (currently learning)  
-💻 Passionate about building clean, user-friendly web applications with efficient, maintainable code  
+💻 Passionate about clean, user-friendly apps. Currently exploring React, Next.js, and frontend testing  
 🎮 Hobbies: gaming, photography, cooking, and gym training  
 ⚡ Fun fact: I don’t like coffee and am only fueled by Red Bull  
 
